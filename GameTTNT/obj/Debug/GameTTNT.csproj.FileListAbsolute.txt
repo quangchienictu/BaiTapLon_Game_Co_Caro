@@ -1,0 +1,10 @@
+E:\Project\GameTTNT\GameTTNT\bin\Debug\GameTTNT.exe.config
+E:\Project\GameTTNT\GameTTNT\bin\Debug\GameTTNT.exe
+E:\Project\GameTTNT\GameTTNT\bin\Debug\GameTTNT.pdb
+E:\Project\GameTTNT\GameTTNT\obj\Debug\GameTTNT.csprojResolveAssemblyReference.cache
+E:\Project\GameTTNT\GameTTNT\obj\Debug\GameTTNT.GAME.resources
+E:\Project\GameTTNT\GameTTNT\obj\Debug\GameTTNT.Properties.Resources.resources
+E:\Project\GameTTNT\GameTTNT\obj\Debug\GameTTNT.csproj.GenerateResource.Cache
+E:\Project\GameTTNT\GameTTNT\obj\Debug\GameTTNT.exe
+E:\Project\GameTTNT\GameTTNT\obj\Debug\GameTTNT.pdb
+E:\Project\GameTTNT\GameTTNT\bin\Debug\DevComponents.DotNetBar2.xml
